@@ -12,3 +12,7 @@ Programming Examples From Java Illuminated Book by Anderson and Franceschi
 **Example06_10** - This program uses a *while* loop to ensure the user has entered a number between 1 and 10.  
 **Example06_12** - This program finds the total of five numbers using a *for* loop.  
 **Example06_13** - This program uses a *for* loop to print the even numbers from 0 to 20.  
+**Example06_14** - This program counts the number of tokens (non-white space characters delimited by one or more white spaces) in a sentence.  
+**Example06_15** - This program demonstrates how to print a sentence backwards.  
+**Example06_17** - This program demonstrates how to print numbers in a triangle using nested *for* loops.  
+**Example06_18** - This program uses a *do/while* loop to factor integers and check for primes.  
